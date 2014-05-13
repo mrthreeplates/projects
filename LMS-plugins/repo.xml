@@ -7,7 +7,6 @@
      <plugin name="MultiDisc" version="1.0" minTarget="7.0" maxTarget="*">
        <title lang="EN">MultiDisc</title>
        <desc lang="EN">Logitech Media Server plugin providing automatic detection of multi-disc sets</desc>
-       <changes lang="EN">English change log</changes>
        <creator>George Hines</creator>
        <email>mrthreeplates@gmail.com</email>
        <url>https://github.com/mrthreeplates/MultiDisc/releases/download/v1.0/MultiDisc-1.0.zip</url>
